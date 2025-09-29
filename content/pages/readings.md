@@ -32,63 +32,63 @@ Introduction, Tutorial on PCA
 {{< tdclose >}}{{< tdopen >}}
 Eigenfaces
 {{< tdclose >}}{{< tdopen >}}
-Face Recognition using Eigenfaces ({{% resource_link "c994291e-4a80-4613-bd30-58b67791740e" "PDF" %}})
+Face Recognition using Eigenfaces ([PDF](http://www.cs.ucsb.edu/~mturk/Papers/mturk-CVPR91.pdf))
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "54bb88c2-07cb-4d1a-96d3-20d79d4d7da1" "Nonlinear Component Analysis as a Kernel Eigenvalue Problem" %}}
+[Nonlinear Component Analysis as a Kernel Eigenvalue Problem](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.53.8911)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
 Active Appearance Models
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "c417cb71-1947-4e30-9580-bc674fe02a37" "Active Appearance Models" %}}
+[Active Appearance Models](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/cootes-eccv-98.pdf)
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "f16f1bf7-ce7c-49fd-a392-af565bbb46c8" "Tim Cootes' Web site" %}}
+[Tim Cootes' Web site](http://personalpages.manchester.ac.uk/staff/timothy.f.cootes/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
 Tutorial on EM
 {{< tdclose >}}{{< tdopen >}}
-The EM Algorithm ({{% resource_link "204a6c48-d826-4f9c-8eec-72908f068bb2" "PS" %}})
+The EM Algorithm ([PS](http://people.csail.mit.edu/mcollins/papers/wpeII.4.ps))
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "a1bfb22d-3040-465c-a5ee-910a8728a140" "EM as Lower Bound (PDF)" %}}
+[EM as Lower Bound (PDF)](https://tminka.github.io/papers/minka-em-tut.pdf)
 
-{{% resource_link "6b9bb6c5-c3ff-4353-9081-76d20cd81b96" "A Gentle Tutorial of the EM Algorithm" %}}
+[A Gentle Tutorial of the EM Algorithm](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.28.613)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
 Learning Flexible Sprites in Video Layers
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "7d7c05d7-61e6-4741-a9a7-88907382516b" "Learning Flexible Sprites in Video Layers" %}}
+[Learning Flexible Sprites in Video Layers](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.11.7433)
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "09babd43-e690-478e-81e4-08b91b3987a3" "Papers by Tom Minka" %}}
+[Papers by Tom Minka](http://research.microsoft.com/~minka/papers)
 
-{{% resource_link "6b6845fb-df45-4f19-aee4-17709b131a68" "Smoothness in Layers" %}}
+[Smoothness in Layers](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.36.4498)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
 LLE and other Manifold Learning Methods
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "d7442c4a-c393-46f1-8f62-efe7b7f1f8cd" "Nonlinear Dimensionality Reduction by Locally Linear Embedding" %}}
+[Nonlinear Dimensionality Reduction by Locally Linear Embedding](http://www.cs.toronto.edu/~roweis/publications.html#lleref)
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "3612a8ce-71cf-46c1-a723-4d17d39516e5" "Global Coordination of Local Linear Models" %}}
+[Global Coordination of Local Linear Models](http://www.cs.toronto.edu/~roweis/publications.html#gcoord)
 
-{{% resource_link "9dc60c1a-23df-46bc-a8a0-617eb88b790f" "Sam T. Roweis' Web site" %}}
+[Sam T. Roweis' Web site](http://www.cs.toronto.edu/~roweis/lle/)
 
-{{% resource_link "75627c3c-ca1d-4b65-8b46-80786006f239" "Face Recognition in Subspaces" %}}
+[Face Recognition in Subspaces](http://www.merl.com/publications/TR2004-041/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
 EM Segmentation
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "3c336e3b-6146-4496-a884-5af8ec4dac3c" "EM Segmentation of MRI Images" %}}
+[EM Segmentation of MRI Images](https://doi.org/10.1109/42.511747)
 {{< tdclose >}}{{< tdopen >}}
-Another EM Segmentation Paper ({{% resource_link "499063b4-0e73-4577-9c98-7d3d5ca72de0" "PDF - 1.1 MB" %}})
+Another EM Segmentation Paper ([PDF - 1.1 MB](http://people.csail.mit.edu/koen/VanLeemputTMI1999a.pdf))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
@@ -118,9 +118,9 @@ Kass, Michael, Andrew Witkin, and Demetri Terzopoulos. "Snakes: Active Contour M
 {{< tdclose >}}{{< tdopen >}}
 Geodesic Active Contours
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "9ab16e7c-03cb-4026-b169-5078455480e7" "Geodesic Active Contours" %}}
+[Geodesic Active Contours](https://link.springer.com/article/10.1023/A:1007979827043)
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "e984ba27-81ae-4577-9a62-328b37fd3538" "Region-Based Curve Evolution" %}}
+[Region-Based Curve Evolution](https://doi.org/10.1109/NSSMIC.2001.1008673)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
@@ -142,15 +142,15 @@ Tutorial on Clustering
 {{< tdclose >}}{{< tdopen >}}
 Spectral Clustering
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "44e18207-e707-4a85-b9f1-33f751274a61" "Spectral Clustering" %}}
+[Spectral Clustering](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.19.8100)
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "b52abb5c-0216-4aae-b240-5ba653fe5b51" "Clustering using Eigenvectors" %}}
+[Clustering using Eigenvectors](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.35.9453)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
 Normalized Cuts
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "1cd72ce8-2c07-47a9-a691-096fd4018293" "Normalized Cuts" %}}
+[Normalized Cuts](https://doi.org/10.1109/34.868688)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -158,7 +158,7 @@ Normalized Cuts
 {{< tdclose >}}{{< tdopen >}}
 Graph Cuts for Energy Minimization
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "c477ba6a-a9f8-4384-bce8-c83afd6961df" "Graph Cuts for Energy Minimization" %}}
+[Graph Cuts for Energy Minimization](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.39.396)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -166,21 +166,21 @@ Graph Cuts for Energy Minimization
 {{< tdclose >}}{{< tdopen >}}
 Belief Propagation
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "75a42577-bb36-4787-9b2c-d7cca2c6a711" "Understanding Belief Propagation and its Generalizations" %}}
+[Understanding Belief Propagation and its Generalizations](http://www.merl.com/publications/TR2001-022/)
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "9ac29c29-b3c2-45ca-9ca1-21506cf9ec80" "Stereo Matching using Belief Propagation" %}}
+[Stereo Matching using Belief Propagation](https://www.microsoft.com/en-us/research/publication/stereo-matching-using-belief-propagation/)
 
-{{% resource_link "a8f46823-c188-4c5c-ad38-459a5903ed39" "Learning Low-Level Vision" %}}
+[Learning Low-Level Vision](https://link.springer.com/article/10.1023/A:1026501619075)
 
-Wainwright and Jordan Variational Methods Tech Report ({{% resource_link "1b202420-5626-4d69-9ac0-34a4f17208c7" "PS" %}})
+Wainwright and Jordan Variational Methods Tech Report ([PS](http://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJorVariational03.ps))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
 SIFT
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "051ac99d-1268-4bce-ae82-66f710c8983d" "SIFT" %}}
+[SIFT](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.2.8899)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -188,7 +188,7 @@ SIFT
 {{< tdclose >}}{{< tdopen >}}
 Constellation Model
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "b52abb5c-0216-4aae-b240-5ba653fe5b51" "Constellation Model" %}}
+[Constellation Model](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.35.9453)
 {{< tdclose >}}{{< tdopen >}}
 Recent Application of Constellation Models
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -196,7 +196,7 @@ Recent Application of Constellation Models
 {{< tdclose >}}{{< tdopen >}}
 Shape Context
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "190da4a1-173f-400c-a59d-41f057f01d60" "Shape Context" %}}
+[Shape Context](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.8852)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -220,32 +220,32 @@ Object Recognition
 {{< tdclose >}}{{< tdopen >}}
 Finite Element Models
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "77682fbd-5ffa-43d3-a05d-95947e9728ef" "Finite Element Models" %}}
+[Finite Element Models](https://doi.org/10.1109/ESIME.2004.1304082)
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "6b6845fb-df45-4f19-aee4-17709b131a68" "Estimating Non-rigid Motion" %}}
+[Estimating Non-rigid Motion](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.36.4498)
 
-{{% resource_link "7cb71771-ed03-4bf1-94d8-5cbb9b3edb67" "Later Paper" %}}
+[Later Paper](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.3.3318)
 
-{{% resource_link "159866c0-171e-4b7f-a241-b2bd0cbe6ed7" "Parametric Model of Non-rigid Motion" %}}
+[Parametric Model of Non-rigid Motion](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.27.7641)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
 Non-rigid Registration using B-splines
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "3e766276-52c1-4af4-8c10-060c1a9a10c2" "Non-rigid Registration using B-splines" %}}
+[Non-rigid Registration using B-splines](https://doi.org/10.1109/MIACA.2010.5528514)
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "79db1fda-fd87-44d2-a97a-77cba4869270" "B-splines1" %}}
+[B-splines1](http://portal.acm.org/citation.cfm?id=221665)
 
-{{% resource_link "b75bd985-83b4-4412-89fb-f177d172feb3" "B-splines2" %}}
+[B-splines2](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.52.1327)
 
-{{% resource_link "53b02ced-42bb-4c23-aff3-cddc939d427c" "Thin Plate Splines" %}}
+[Thin Plate Splines](http://mathworld.wolfram.com/ThinPlateSpline.html)
 
-{{% resource_link "ab59b2a3-6ecf-4d1b-91c0-e0d5ad1e0ac9" "Diffeomorphic ASM" %}}
+[Diffeomorphic ASM](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.59.1429)
 
-{{% resource_link "8f9a8dc9-2718-4a96-85fe-98ad8172adfb" "Curves of Least Energy" %}}
+[Curves of Least Energy](https://dl.acm.org/citation.cfm?id=356061&coll=GUIDE&dl=GUIDE)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25

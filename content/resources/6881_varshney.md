@@ -5,6 +5,8 @@ description: Final project report on application of locally linear embedding to 
 file: /courses/6-881-representation-and-modeling-for-image-analysis-spring-2005/c2edd231cb63e93e4e79e3d396ec5989_6881_varshney.pdf
 file_size: 685635
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
